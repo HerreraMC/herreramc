@@ -1,0 +1,49 @@
+*{
+    margin: 5px;
+    padding: 10px;
+    }
+h1{
+    text-align: center; 
+}
+
+#primero{
+      text-align: center;    
+}
+body{
+    background-image: url(zero2.jpg);
+   font-size: 25;
+    margin: 60px;
+} 
+
+#seg{
+   float: right;
+    margin-top:-350;
+    margin-left:250 px; 
+  
+} 
+button{
+font-size: 25px;
+   position: relative;
+border-bottom: none;
+
+}
+button:hover{
+font-size: 40px;
+   color: green;
+
+}
+footer{
+    text-align: cent;er; 
+    margin-top: 90px;
+    margin-right: -700;
+}
+#placeholder
+{
+      
+}
+#num{
+    text-decoration-color: white;
+}
+
+
+    

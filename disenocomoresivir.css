@@ -1,0 +1,63 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+#metodo{
+    margin-left: 35px;
+}
+section{
+    margin-top: 10 px;
+       margin-left: 300px; 
+    color:cadetblue;
+    border-radius: 25px;
+     width: 700px;
+    height: 900px;
+    background-color:aquamarine;
+    position: relative;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: auto;
+    border-radius: 30px;
+    }    
+#foliodepago{
+    width: 300px;
+    height: 40px;
+}
+#clave{
+    height: 40px;
+}
+#nombre{
+    height: 40px;
+}
+#postal{
+    height: 40px;
+}
+#municipio{
+    height: 40px;
+}
+#colonia{
+    height: 40px;
+}
+#calle{
+    height: 40px;
+}
+#numcalle{
+    height: 40px;
+}
+#calles{
+    height: 40px;
+}
+#referencias{
+    height: 40px;
+}
+#telefono{
+    height: 40px;
+}
+#botondom{
+     width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    font-size: 20px;
+    margin-left: 10px;
+}
